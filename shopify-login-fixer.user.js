@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Override Shopify Log In Button grey out
 // @namespace    https://accounts.shopify.com/
-// @version      2023-05-19
+// @version      2023-05-21
 // @description  Shopify's login page seems to be very flakey, I always have trouble with the login buttons getting stuck in a disabled state. This script removes the disabled state from the button.
 // @author       NebularNerd
+// @downloadURL  https://github.com/NebularNerd/shopify-login-fixer/raw/main/shopify-login-fixer.user.js
+// @updateURL    https://github.com/NebularNerd/shopify-login-fixer/raw/main/shopify-login-fixer.user.js
 // @match        https://accounts.shopify.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=myshopify.com
 // @grant        none
